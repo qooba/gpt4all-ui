@@ -17,5 +17,5 @@ Open: http://localhost:8000/
 ## License
 
 Please note that repository license is only associated with UI code. 
-For `nomic` and `gpt4all` license please check on [nomic](https://github.com/nomic-ai/nomic) and
+For `nomic` and `gpt4all` licensing please check on [nomic](https://github.com/nomic-ai/nomic) and
 [gpt4all](https://github.com/nomic-ai/gpt4all) respectively.
